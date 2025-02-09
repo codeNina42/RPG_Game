@@ -6,5 +6,4 @@ Open-world exploration
 Crafting & resource gathering
 Combat system with AI enemies
 Player progression & leveling
-Dynamic weather & day-night cycle
 Contributions are welcome! Stay tuned for updates. 🎮
